@@ -1,6 +1,6 @@
 👋 Hi, I’m Aitana Alonso Lorenzo.
 - 👀 I’m interested in videogames, anime, manga, technology, movies and series.
-- 🌱 I’m currently learning programming, databases and web design.
+- 🌱 I’m currently learning programming, web development and design.
 - 📫 How to reach me: aitana.alonso.lorenzo@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love mobile games and watching series or movies on weekends
